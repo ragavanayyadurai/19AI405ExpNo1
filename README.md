@@ -1,6 +1,6 @@
 # ExpNo 1: Developing AI Agent with PEAS Description
-#### Name: Ragavendran A
-#### Register Number: 212222230114
+#### Name: Saravanan N
+#### Register Number: TSML006
 ### AIM:
 To find the PEAS description for the given AI problem and develop an AI agent
 
